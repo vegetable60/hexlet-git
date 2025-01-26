@@ -1,1 +1,2 @@
-Haskell Curry
+Tirion Lannister
+Ned Stark
